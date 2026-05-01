@@ -2,6 +2,7 @@
   "name": "autodl-watcher",
   "version": "0.1.0",
   "description": "Windows 本地 AutoDL 实例监控与控制工具",
+  "license": "MIT",
   "main": "./out/main/index.js",
   "scripts": {
     "dev": "electron-vite dev",

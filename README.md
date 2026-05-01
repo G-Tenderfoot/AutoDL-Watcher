@@ -217,4 +217,4 @@ POST /api/v1/dev/instance/pro/power_off
 
 ## License
 
-本仓库暂未声明开源许可证。公开发布并允许他人复用前，建议补充 `LICENSE` 文件。
+MIT License. See [LICENSE](./LICENSE) for details.
