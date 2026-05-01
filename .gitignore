@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist/
+temp/
+.claude/
+CLAUDE.md
+PROGRESS.md
+*.log
+.DS_Store
+Thumbs.db
