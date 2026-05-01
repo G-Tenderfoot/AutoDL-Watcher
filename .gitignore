@@ -8,3 +8,4 @@ PROGRESS.md
 *.log
 .DS_Store
 Thumbs.db
+/releases
