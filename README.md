@@ -41,8 +41,7 @@ AutoDL Watcher 用 Electron + React + TypeScript 构建，面向经常使用 Aut
 
 如果仓库已经发布 Release，优先下载 Windows 构建产物：
 
-- `AutoDL Watcher-0.1.0-x64.exe`：安装版。
-- `AutoDL Watcher-0.1.0-portable-x64.exe`：便携版。
+- `setup.exe`：Windows x64 安装版。
 
 首次启动后点击“打开 AutoDL 登录”，在弹出的 AutoDL 页面完成登录，并停留在实例列表页，应用会自动捕获登录凭证。
 
